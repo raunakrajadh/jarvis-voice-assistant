@@ -27,7 +27,7 @@ Activate environment
 ## Installation
 To install packages:
 ```bash
-python install -r requirements.txt
+python install -r Requirements.txt
 ```
 
 ## Config
