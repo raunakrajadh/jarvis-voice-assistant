@@ -3,7 +3,8 @@
 ```
 Notes: 
 
-Make sure google chrome is installed for speech_to_text to work and on inside chrome settings make sure you have a mic selected.
+Make sure google chrome is installed for speech_to_text to work
+inside chrome settings make sure you have a mic selected
 To see how speech to text works navigate to ./scripts/speechtotext.py
 ```
 
