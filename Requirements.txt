@@ -1,0 +1,13 @@
+python-dotenv
+groq
+rich
+cohere
+googlesearch-python
+edge_tts
+pygame
+selenium
+webdriver-manager
+mtranslate
+pywhatkit
+AppOpener
+google-api-python-client
