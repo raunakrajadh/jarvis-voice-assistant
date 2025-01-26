@@ -35,7 +35,7 @@ Activate environment
 ## Installation
 To install packages:
 ```bash
-python install -r Requirements.txt
+pip install -r Requirements.txt
 ```
 
 ## Config
